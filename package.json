@@ -1,0 +1,24 @@
+{
+  "name": "unusually-optionally-easy",
+  "dependencies": {
+    "easy-street": "^0.0.7",
+    "envtrace": "^0.0.2",
+    "unusual": "^0.0.2",
+    "wahl": "^0.0.6"
+  },
+  "scripts": {
+    "run": "nps run"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/eslint-parser": "^7.14.7",
+    "@babel/plugin-proposal-object-rest-spread": "^7.14.7",
+    "@babel/plugin-transform-destructuring": "^7.14.7",
+    "@babel/preset-env": "^7.14.8",
+    "eslint": "^7.32.0",
+    "eslint-config-sorcerers": "^0.0.7",
+    "nps": "^5.10.0",
+    "prettier": "^2.3.2",
+    "prettier-eslint": "^13.0.0"
+  }
+}
